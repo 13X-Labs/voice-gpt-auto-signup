@@ -15,3 +15,8 @@ Create Ramdom 100 Account
 for i in range(1, 100):
 	autoVoiceGPT()
 ```
+
+Run the script
+``` bash
+python3 autoVoiceGPT.py
+```
